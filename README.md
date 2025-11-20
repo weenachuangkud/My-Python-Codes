@@ -1,5 +1,5 @@
 # 🐍 My Python Codes
-All the little coding I've done, while I'm **practicing and learning** Python  :P
+All the little coding I've done, while I'm **practicing and learning** Python in the past
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
 
