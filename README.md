@@ -1,5 +1,5 @@
-# 🐍 My Python Projects
-All my little projects I've made, while I'm **practicing and learning** Python  :P
+# 🐍 My Python Codes
+All the little coding I've done, while I'm **practicing and learning** Python  :P
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
 
