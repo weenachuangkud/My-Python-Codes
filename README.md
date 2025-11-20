@@ -18,7 +18,4 @@ All the little coding I've done, while I'm **practicing and learning** Python  :
 ---
 
 ## 🧠 License
-This project is licensed under the **Creative Commons Attribution–NonCommercial–ShareAlike 4.0 International** license.
-
-> You may copy, share, and modify this project for **educational and non-commercial use** —  
-> as long as you give **proper credit** and share any modified versions under the same license.
+- MIT License
